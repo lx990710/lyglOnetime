@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lyglconsumer" />
+        <module name="lygllxprovider" />
+        <module name="lyglutil" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lyglconsumer" target="1.7" />
+      <module name="lygllxprovider" target="1.7" />
+      <module name="lyglmain" target="1.7" />
+      <module name="lyglutil" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

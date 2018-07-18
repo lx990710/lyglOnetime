@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lyglutil:war">
+    <output-path>$PROJECT_DIR$/lyglutil/target</output-path>
+    <root id="archive" name="lygl-util.war">
+      <element id="artifact" artifact-name="lyglutil:war exploded" />
+    </root>
+  </artifact>
+</component>

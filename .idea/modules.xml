@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lyglconsumer/lyglconsumer.iml" filepath="$PROJECT_DIR$/lyglconsumer/lyglconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lygllxprovider/lygllxprovider.iml" filepath="$PROJECT_DIR$/lygllxprovider/lygllxprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyglmain.iml" filepath="$PROJECT_DIR$/lyglmain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lyglutil/lyglutil.iml" filepath="$PROJECT_DIR$/lyglutil/lyglutil.iml" />
+    </modules>
+  </component>
+</project>
